@@ -1,4 +1,4 @@
-// Código não funciona;
+// Código não funciona como deveria;
 const fs = require('fs');
 const { performance } = require('perf_hooks');
 
